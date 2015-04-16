@@ -1,0 +1,285 @@
+# depslib dependency file v1.0
+1411096414 source:/home/ssaporito/Dropbox/Projeto Grafos/GraphsUbuntu/GraphsUbuntu/Graph.cpp
+	<Graph.h>
+
+1411354113 
+
+1411096625 /home/ssaporito/Dropbox/Projeto Grafos/GraphsUbuntu/GraphsUbuntu//Graph.h
+	<AdjacencyList.h>
+	<AdjacencyMatrix.h>
+
+1411354084 Matrix.h>
+
+1411096490 source:/home/ssaporito/Dropbox/Projeto Grafos/GraphsUbuntu/GraphsUbuntu/main.cpp
+	<Graph.h>
+	<AdjacencyMatrix.h>
+	<AdjacencyList.h>
+
+1412991328 List.h>
+
+1411096087 source:/home/ssaporito/Dropbox/Projeto Grafos/GraphsUbuntu/GraphsUbuntu/AdjacencyMatrix.cpp
+	<AdjacencyMatrix.h>
+
+1411096585 /home/ssaporito/Dropbox/Projeto Grafos/GraphsUbuntu/GraphsUbuntu//AdjacencyMatrix.h
+	<aux.h>
+	<GraphStructure.h>
+
+1411156257 cture.h>
+
+1410994791 source:/home/ssaporito/Dropbox/Projeto Grafos/GraphsUbuntu/GraphsUbuntu/aux.cpp
+
+1411096585 /home/ssaporito/Dropbox/Projeto Grafos/GraphsUbuntu/GraphsUbuntu//aux.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+	<sstream>
+	<list>
+	<vector>
+	<algorithm>
+
+1411096585 >
+
+1411093649 source:/home/ssaporito/Dropbox/Projeto Grafos/GraphsUbuntu/GraphsUbuntu/AdjacencyList.cpp
+	<AdjacencyList.h>
+
+1411096565 /home/ssaporito/Dropbox/Projeto Grafos/GraphsUbuntu/GraphsUbuntu//AdjacencyList.h
+	<unordered_map>
+	<aux.h>
+	<GraphStructure.h>
+
+1411096689 /home/ssaporito/Dropbox/Projeto Grafos/GraphsUbuntu/GraphsUbuntu//GraphStructure.h
+	<aux.h>
+
+1411161275 source:/home/ssaporito/Dropbox/Projeto Grafos/GraphsUbuntu/AdjacencyList.cpp
+	<AdjacencyList.h>
+
+1411156835 source:/home/ssaporito/Dropbox/Projeto Grafos/GraphsUbuntu/AdjacencyMatrix.cpp
+	<AdjacencyMatrix.h>
+
+1411180534 source:/home/ssaporito/Dropbox/Projeto Grafos/GraphsUbuntu/Graph.cpp
+	<Graph.h>
+
+1411177150 source:/home/ssaporito/Dropbox/Projeto Grafos/GraphsUbuntu/main.cpp
+	<Graph.h>
+	<AdjacencyMatrix.h>
+	<AdjacencyList.h>
+
+1411156008 /home/ssaporito/Dropbox/Projeto Grafos/GraphsUbuntu//AdjacencyList.h
+	<unordered_map>
+	<aux.h>
+	<GraphStructure.h>
+
+1411153823 /home/ssaporito/Dropbox/Projeto Grafos/GraphsUbuntu//aux.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<list>
+	<vector>
+	<queue>
+	<stack>
+
+1411161451 /home/ssaporito/Dropbox/Projeto Grafos/GraphsUbuntu//GraphStructure.h
+	<aux.h>
+
+1411156257 /home/ssaporito/Dropbox/Projeto Grafos/GraphsUbuntu//AdjacencyMatrix.h
+	<aux.h>
+	<GraphStructure.h>
+
+1411176782 /home/ssaporito/Dropbox/Projeto Grafos/GraphsUbuntu//Graph.h
+	<AdjacencyList.h>
+	<AdjacencyMatrix.h>
+
+1411161275 source:/home/ssaporito/Dropbox/ProjetoGrafos/GraphsUbuntu/AdjacencyList.cpp
+	<AdjacencyList.h>
+
+1411520122 /home/ssaporito/Dropbox/ProjetoGrafos/GraphsUbuntu//AdjacencyList.h
+	<unordered_map>
+	<aux.h>
+	<GraphStructure.h>
+
+1411517458 /home/ssaporito/Dropbox/ProjetoGrafos/GraphsUbuntu//aux.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<list>
+	<vector>
+	<queue>
+	<stack>
+	<unordered_map>
+
+1411517458 _map>
+
+1411519313 /home/ssaporito/Dropbox/ProjetoGrafos/GraphsUbuntu//GraphStructure.h
+	<aux.h>
+
+1411184095 source:/home/ssaporito/Dropbox/ProjetoGrafos/GraphsUbuntu/AdjacencyMatrix.cpp
+	<AdjacencyMatrix.h>
+
+1411519955 /home/ssaporito/Dropbox/ProjetoGrafos/GraphsUbuntu//AdjacencyMatrix.h
+	<aux.h>
+	<GraphStructure.h>
+
+1411513261 source:/home/ssaporito/Dropbox/ProjetoGrafos/GraphsUbuntu/Graph.cpp
+	<Graph.h>
+
+1412975492 /home/ssaporito/Dropbox/ProjetoGrafos/GraphsUbuntu//Graph.h
+	<GraphStructure.h>
+	<aux.h>
+
+1412989292 source:/home/ssaporito/Dropbox/ProjetoGrafos/GraphsUbuntu/main.cpp
+	<Graph.h>
+	<AdjacencyMatrix.h>
+	<AdjacencyList.h>
+
+1411507936 source:/home/ssaporito/Dropbox/ProjetoGrafos/GraphsUbuntu/aux.cpp
+	<aux.h>
+
+1411161275 source:/home/ssaporito/Área de Trabalho/Trabalho 1/GraphsUbuntu/AdjacencyList.cpp
+	<AdjacencyList.h>
+
+1411184095 source:/home/ssaporito/Área de Trabalho/Trabalho 1/GraphsUbuntu/AdjacencyMatrix.cpp
+	<AdjacencyMatrix.h>
+
+1411156008 /home/ssaporito/Área de Trabalho/Trabalho 1/GraphsUbuntu/AdjacencyList.h
+	<unordered_map>
+	<aux.h>
+	<GraphStructure.h>
+
+1411272132 /home/ssaporito/Área de Trabalho/Trabalho 1/GraphsUbuntu/aux.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<list>
+	<vector>
+	<queue>
+	<stack>
+
+1411184164 /home/ssaporito/Área de Trabalho/Trabalho 1/GraphsUbuntu/GraphStructure.h
+	<aux.h>
+
+1411156257 /home/ssaporito/Área de Trabalho/Trabalho 1/GraphsUbuntu/AdjacencyMatrix.h
+	<aux.h>
+	<GraphStructure.h>
+
+1411354113 source:/home/ssaporito/Área de Trabalho/Trabalho 1/GraphsUbuntu/Graph.cpp
+	<Graph.h>
+
+1411354084 /home/ssaporito/Área de Trabalho/Trabalho 1/GraphsUbuntu/Graph.h
+	<AdjacencyList.h>
+	<AdjacencyMatrix.h>
+
+1411407032 source:/home/ssaporito/Área de Trabalho/Trabalho 1/GraphsUbuntu/main.cpp
+	<Graph.h>
+	<AdjacencyMatrix.h>
+	<AdjacencyList.h>
+
+1411272122 source:/home/ssaporito/Área de Trabalho/Trabalho 1/GraphsUbuntu/aux.cpp
+	<aux.h>
+
+1412991328 source:c:\users\luciana\dropbox\grafos\projeto grafos\graphsubuntu\main.cpp
+	<Graph.h>
+	<AdjacencyMatrix.h>
+	<AdjacencyList.h>
+
+1412991328 source:c:\users\maria\dropbox\grafos\projeto grafos\graphsubuntu\main.cpp
+	<Graph.h>
+	<AdjacencyMatrix.h>
+	<AdjacencyList.h>
+
+1411507936 source:/home/ssaporito/Dropbox/ProjetoGrafos/GraphsUbuntu/aux.cpp
+	<aux.h>
+
+1415310641 source:/home/ssaporito/Dropbox/ProjetoGrafos/GraphsUbuntu/main.cpp
+	<auxiliary.h>
+	<AdjacencyMatrix.h>
+	<AdjacencyList.h>
+	<Graph.h>
+	<GraphWriter.h>
+
+1414889126 /home/ssaporito/Dropbox/ProjetoGrafos/GraphsUbuntu//Graph.h
+	<auxiliary.h>
+	<GraphStructure.h>
+
+1414869762 /home/ssaporito/Dropbox/ProjetoGrafos/GraphsUbuntu//auxiliary.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<string>
+	<sstream>
+	<algorithm>
+	<list>
+	<vector>
+	<queue>
+	<stack>
+	<unordered_map>
+	<omp.h>
+
+1414867431 /home/ssaporito/Dropbox/ProjetoGrafos/GraphsUbuntu//GraphStructure.h
+	<auxiliary.h>
+
+1414715888 /home/ssaporito/Dropbox/ProjetoGrafos/GraphsUbuntu//AdjacencyMatrix.h
+	<GraphStructure.h>
+
+1414886553 /home/ssaporito/Dropbox/ProjetoGrafos/GraphsUbuntu//AdjacencyList.h
+	<GraphStructure.h>
+
+1414118846 source:/home/ssaporito/Dropbox/ProjetoGrafos/GraphsUbuntu/auxiliary.cpp
+	<auxiliary.h>
+
+1414118846 source:/home/sandro/Desktop/GraphsUbuntu/auxiliary.cpp
+	<auxiliary.h>
+
+1414869762 /home/sandro/Desktop/GraphsUbuntu//auxiliary.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<string>
+	<sstream>
+	<algorithm>
+	<list>
+	<vector>
+	<queue>
+	<stack>
+	<unordered_map>
+	<omp.h>
+
+1414871512 source:/home/sandro/Desktop/GraphsUbuntu/main.cpp
+	<auxiliary.h>
+	<AdjacencyMatrix.h>
+	<AdjacencyList.h>
+	<Graph.h>
+	<GraphWriter.h>
+
+1414715888 /home/sandro/Desktop/GraphsUbuntu//AdjacencyMatrix.h
+	<GraphStructure.h>
+
+1414867431 /home/sandro/Desktop/GraphsUbuntu//GraphStructure.h
+	<auxiliary.h>
+
+1414886553 /home/sandro/Desktop/GraphsUbuntu//AdjacencyList.h
+	<GraphStructure.h>
+
+1414889126 /home/sandro/Desktop/GraphsUbuntu//Graph.h
+	<auxiliary.h>
+	<GraphStructure.h>
+
+1414870530 /home/sandro/Desktop/GraphsUbuntu//GraphWriter.h
+	<auxiliary.h>
+	<Graph.h>
+
+1414870530 /home/ssaporito/Dropbox/ProjetoGrafos/GraphsUbuntu//GraphWriter.h
+	<auxiliary.h>
+	<Graph.h>
+
